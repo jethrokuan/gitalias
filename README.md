@@ -33,7 +33,6 @@ gco = git checkout
 gba = git branch -a
 gcp = git cherry-pick
 gl = (pretty git log)
-gpom = git push origin master
 ```
 
 [slack-link]: https://fisherman-wharf.herokuapp.com/
