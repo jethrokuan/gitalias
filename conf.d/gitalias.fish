@@ -1,0 +1,7 @@
+abbr ga="git add"
+abbr gbd="git branch -D"
+abbr gca="git commit -a -m"
+abbr gcm="git commit -m"
+abbr gcob="git checkout -b"
+abbr gco="git checkout"
+abbr gd="git diff"
